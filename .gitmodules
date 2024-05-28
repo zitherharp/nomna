@@ -1,0 +1,12 @@
+[submodule "fonts"]
+	path = fonts
+	url = https://github.com/zitherharpnomna/fonts.git
+[submodule "extension"]
+	path = extension
+	url = https://github.com/zitherharpnomna/extension.git
+[submodule "keyboard"]
+	path = keyboard
+	url = https://github.com/zitherharpnomna/keyboard.git
+[submodule "website"]
+	path = website
+	url = https://github.com/zitherharpnomna/website.git
