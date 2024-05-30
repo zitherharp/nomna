@@ -7,6 +7,9 @@
 [submodule "keyboard"]
 	path = keyboard
 	url = https://github.com/zitherharpnomna/keyboard.git
+[submodule "translate"]
+	path = translate
+	url = https://github.com/zitherharpnomna/translate.git
 [submodule "website"]
 	path = website
 	url = https://github.com/zitherharpnomna/website.git
