@@ -1,6 +1,6 @@
-[submodule "fonts"]
-	path = fonts
-	url = https://github.com/zitherharpnomna/fonts.git
+[submodule "assets"]
+	path = assets
+	url = https://github.com/zitherharpnomna/assets.git
 [submodule "extension"]
 	path = extension
 	url = https://github.com/zitherharpnomna/extension.git
