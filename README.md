@@ -1,9 +1,9 @@
 # Zither Harp Nomna
 
-- fonts
+- app
+- assets
 - extension
 - keyboard
-- website
 
 ## Getting started
 ```sh
