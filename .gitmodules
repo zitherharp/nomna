@@ -1,3 +1,6 @@
+[submodule "app"]
+	path = app
+	url = https://github.com/zitherharpnomna/app.git
 [submodule "assets"]
 	path = assets
 	url = https://github.com/zitherharpnomna/assets.git
