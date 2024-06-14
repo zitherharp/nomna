@@ -4,6 +4,7 @@
 - assets
 - extension
 - keyboard
+- translate
 
 ## Getting started
 ```sh
