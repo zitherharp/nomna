@@ -10,6 +10,9 @@
 [submodule "keyboard"]
 	path = keyboard
 	url = https://github.com/zitherharpnomna/keyboard.git
+[submodule "shared"]
+	path = shared
+	url = https://github.com/zitherharpnomna/shared.git
 [submodule "translate"]
 	path = translate
 	url = https://github.com/zitherharpnomna/translate.git
