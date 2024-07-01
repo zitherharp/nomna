@@ -1,7 +1,9 @@
 # Zither Harp Nomna
 
+## Submodules
 - app
 - assets
+- shared
 - extension
 - keyboard
 - translate
