@@ -4,9 +4,21 @@
 - app
 - assets
 - shared
+- calendar
+- dictionary
 - extension
 - keyboard
 - translate
+
+## Quick setup
+```sh
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin "url"
+git push -u origin main
+```
 
 ## Getting started
 ```sh

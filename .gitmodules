@@ -4,6 +4,12 @@
 [submodule "assets"]
 	path = assets
 	url = https://github.com/zitherharpnomna/assets.git
+[submodule "calendar"]
+	path = calendar
+	url = https://github.com/zitherharpnomna/calendar.git
+[submodule "dictionary"]
+	path = dictionary
+	url = https://github.com/zitherharpnomna/dictionary.git
 [submodule "extension"]
 	path = extension
 	url = https://github.com/zitherharpnomna/extension.git
