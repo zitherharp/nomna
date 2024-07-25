@@ -7,6 +7,7 @@
 - calendar
 - dictionary
 - extension
+- fonts
 - keyboard
 - translate
 
